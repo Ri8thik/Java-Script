@@ -1,0 +1,24 @@
+.div__main {
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+    width: 75%;
+
+}
+
+.div__button {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.div__button div {
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
+}
