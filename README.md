@@ -1,10 +1,7 @@
 # Java-Script
 Basics of Java-Script and smal projects
 
-Project 01 
 
+![main-pj01](https://user-images.githubusercontent.com/63919019/156351119-f6813c9f-f5b8-4a06-b3fa-34592b99e8f8.png)
 
-
-![pj_01](https://user-images.githubusercontent.com/63919019/155846579-adaab5ea-f091-4b4c-a9fc-a1b1f0f4051b.png)
-
-![pj_0101](https://user-images.githubusercontent.com/63919019/155846582-58ce73ef-6b44-47b8-b376-8865322025b6.png)
+![main-pj02](https://user-images.githubusercontent.com/63919019/156351128-906affe2-135a-4868-afc8-8a7959d55c51.png)
